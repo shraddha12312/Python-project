@@ -1,1 +1,1 @@
-# Python-project
+MindTrack CLI 
